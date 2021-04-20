@@ -1,7 +1,10 @@
 {
-  "name": "toDoProject",
+  "name": "todoproject",
   "version": "1.0.0",
   "main": "index.js",
   "author": "pyrhaa <sboubtane@protonmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
 }
